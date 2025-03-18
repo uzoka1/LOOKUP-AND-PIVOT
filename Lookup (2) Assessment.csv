@@ -1,0 +1,22 @@
+Customer Name,Order Priority,Order Quantity,Sales,Discount,Ship Mode,Profit,Region,Customer Segment,Date
+Julie Creighton,Not Specified,14,1892.848,0.01,Regular Air,48.99,West,Corporate,4/23/2009
+Muhammed MacIntyre,Low,6,261.54,0.04,Regular Air,-213.25,Nunavut,Small Business,4/25/2009
+Liz Pelletier,High,24,1761.4,0.09,Delivery Truck,-1748.56,West,Corporate,4/27/2009
+Liz Pelletier,High,23,160.2335,0.04,Regular Air,-85.13,West,Corporate,4/28/2009
+Liz Pelletier,High,15,140.56,0.04,Regular Air,-128.38,Prarie,Corporate,4/29/2009
+Tamara Dahlen,Critical,32,3812.73,0.02,Regular Air,1470.3,Ontario,Corporate,5/1/2009
+Ruben Dartt,Not Specified,2,6.93,0.01,Regular Air,-4.64,West,Corporate,5/2/2009
+Craig Yedwab,Medium,26,75.57,0.03,Regular Air,28.24,Yukon,Consumer,5/3/2009
+Arthur Gainer,Low,41,108.15,0.09,Regular Air,7.57,West,Consumer,5/4/2009
+Roy Collins,High,29,575.11,0.02,Regular Air,71.75,Prarie,Corporate,5/5/2009
+Roy Collins,High,3,461.89,0.05,Express Air,-309.82,Prarie,Corporate,5/6/2009
+Sample Company A,Critical,46,2484.7455,0.1,Regular Air,657.48,West,Home Office,5/7/2009
+,,,,,,,,,
+,,,,,,,,,
+Customer Name,Sum of Order Quantity,,,Order Priority, Sales,,,,
+Liz Pelletier,88,,,High,10065.397,,,,
+,,,,,,,,,
+,,,,,,,,,
+Custormer Segment,Sum of Sales,,,Sum of Profit,Date,,,,
+Home Office,14537.449,,,Row Labels,2012,,,,
+,,,,Ontario,-22.59,,,,
